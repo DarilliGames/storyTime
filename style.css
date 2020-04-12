@@ -1,0 +1,13 @@
+body{
+    background-image: linear-gradient(red,orange, yellow, green, blue,indigo, violet);
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+
+.container{
+    border: solid 5px black;
+    border-radius: 8px;
+    margin-top: 10%;
+    background-color: white;
+
+}
